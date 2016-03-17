@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+body {
+	background-color: white;
+	font-family: Arial;
+}
+#footer {
+	padding: 14px;
+	border: thin solid black;
+	border-radius: 10px;
+}
+
+h1 {
+	padding-bottom: 1em;
+}
+
+.warning {
+	color: red;
+	font-weight: bold;
+}
+
+.imgright {
+	float: right;
+	margin-left: 2em;
+}
